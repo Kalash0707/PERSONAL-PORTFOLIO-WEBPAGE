@@ -31,3 +31,5 @@ Visually, the design incorporates a dark UI theme, soft transitions, shadow effe
 In conclusion, this portfolio website project demonstrates how HTML and CSS alone can create a sleek, professional, and fully responsive personal website. It is ideal for beginner to intermediate frontend developers who want a strong online presence. The site is also easy to maintain and extend, whether by adding JavaScript interactivity, a contact form, or integrating APIs in the future.
 
 ##OUTPUT:
+
+<img width="1327" height="639" alt="Image" src="https://github.com/user-attachments/assets/ece85de3-0a4c-4c6c-86d5-bcd5fe923d1e" />
